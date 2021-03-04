@@ -5,15 +5,10 @@ header {
     z-index: 999;
 }
 
-footer {
-    background-color: #242424;
-    padding: 40px 0;
-    background-color:black;
-}
 
 .canpany-name {
     font-size: 30px;
-    color: blue;
+    color: blue
 
 }
 
@@ -22,4 +17,11 @@ footer {
     width: 100%;
     height: 100%;
     
+}
+
+
+footer {
+    background-color: #242424;
+    padding: 40px 0;
+    background-color:black;
 }
