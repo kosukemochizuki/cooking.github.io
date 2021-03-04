@@ -1,5 +1,5 @@
 <style>
-h1 {
+.h1 {
     font-weight: normal;
     padding-bottom: 10px;
     text-align: center;
@@ -8,7 +8,7 @@ h1 {
     letter-spacing: 5px;
 }
  
-p {
+.p {
     width: 50%;
     line-height: 2;
     display: inline-block;
@@ -21,7 +21,7 @@ p {
     letter-spacing: 2px;
 }
  
-a {
+.a {
     color: #fff;
     text-decoration: none;
     background-color: #F44336;
@@ -36,7 +36,7 @@ a {
     letter-spacing: 2px;
 }
  
-h1::after {
+.h1::after {
     content: "";
     display: block;
     border-bottom: solid 5px #2196F3;
@@ -48,11 +48,11 @@ h1::after {
     bottom: -5px;
 }
  
-html {
+.html {
     background-color: #a8e4ff;
 }
  
-body {
+.body {
     background-color: #fff;
     padding: 30px 30px 30px;
     max-width: 700px;
@@ -62,7 +62,7 @@ body {
     position: relative;
 }
  
-img {
+.img {
     height: 300px;
     display: inline-block;
     vertical-align: top;
