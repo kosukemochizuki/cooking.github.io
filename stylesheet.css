@@ -1,27 +1,21 @@
-header {
-    width: 100%;
-    background: #fff;
-    padding: 15px;
-    z-index: 999;
-}
-
-
-.canpany-name {
-    font-size: 30px;
-    color: blue
-
-}
-
-.main-content {
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    
-}
-
-
-footer {
-    background-color: #242424;
-    padding: 40px 0;
-    background-color:black;
-}
+body {
+    margin: 0;
+    font-family: "Hiragino Kaku Gothic ProN";
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  .container {
+    width: 1170px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+  
+  .top-wrapper {
+    padding: 180px 0 100px 0;
+    background-image: url(https://prog-8.com/images/html/advanced/top.png);
+    background-size: cover;
+    color: white;
+  }
