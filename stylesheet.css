@@ -19,6 +19,14 @@ body {
     background-color: rgba(34, 49, 52, 0.9);
   }
 
+  .header-left {
+    float: left;
+  }
+
+  .company-name {
+    color:blue
+  }
+
   .top-wrapper {
     padding: 180px 0 100px 0;
     background-image: url(hhttps://cdn-ak.f.st-hatena.com/images/fotolife/s/sh_manami_yamazaki/20200422/20200422143856.jpg);
